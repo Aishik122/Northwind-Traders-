@@ -58,7 +58,7 @@ Data Provided on  May 04, 2023 , contains 2013,2014,2015 years data.
 ![shippers!](shippers.png)
 ![ER!](ER.png)
 
-# instructions 
+# Instructions 
  how to use the dashboard ?
  * When you open the Maven Northwind Challenge.pbix file in Power Bi, You can able to visualize  4 Dashboard and a drill through page.
  * The 1st Page is the Sales Dashboard. You can check the overall sales also there is options for drill up or drill down in each charts. 
