@@ -45,8 +45,25 @@ Data Provided on  May 04, 2023 , contains 2013,2014,2015 years data.
 * Order detail.csv  5 columns  and 500 rows 
 * Customers.csv  6 columns and 92 rows 
 * Products.csv 6 columns and 78 rows 
-* Product.csv categories.csv have 3 columns and 9 rows 
+* Product categories.csv have 3 columns and 9 rows 
 * Employees.csv 6 columns and 10 rows 
 * Shippers 2 columns and 3 rows 
 
 ![Order!](order_table.png)
+![OrderDetails!](Order_detail.png)
+![Customer!](Customers.png)
+![Product!](product.png)
+![ProductCategories!](product_categories.png)
+![Employees!](employee.png)
+![shippers!](shippers.png)
+![ER!](ER.png)
+
+
+# KPI DASHBOARD PREVIEW 
+The KPI dashboard present in the Project Folder.Maven Northwind Challenge.pbix is a Microsoft Power BI file . 
+ Here I present some demo of my project which consist of Sales Dashboard , Product performence Dashboard , Employe performence Dashboard and Shippings Dashboard . 
+ * Sales Dashboard 
+ ![SalesDashboard!](sales_DB.png) 
+ ![Product_performence_dashboard!](Product_Db.png) 
+ ![Employe_performence_DAshboard](Employee_DB.png) 
+ ![Employe_performence_DAshboard](Shipping_cost.png) 
