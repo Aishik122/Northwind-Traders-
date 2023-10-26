@@ -58,12 +58,30 @@ Data Provided on  May 04, 2023 , contains 2013,2014,2015 years data.
 ![shippers!](shippers.png)
 ![ER!](ER.png)
 
+# instructions 
+ how to use the dashboard ?
+ * When you open the Maven Northwind Challenge.pbix file in Power Bi, You can able to visualize  4 Dashboard and a drill through page.
+ * The 1st Page is the Sales Dashboard. You can check the overall sales also there is options for drill up or drill down in each charts. 
+ * To visualize sales numbers more you can check the drill 1 page so you can check yearly quarterly sales . 
+ * Page 2 is the Products performance dash board. You can check best selling peoducts and revenue from the products and also there is options for filters like yearly,quarterly and a contries . so you can adjust the filter to check different types of revenue for the products . also there is options for discontinued products and there performences . 
+ * The next Dashboard is all about Employees performence. there is filter options for the London and New York wo you can adjust the filters and also there is Year filter . 
+ you can check the numbers of customers in different years which you can dill through Quaterly and monthly . 
+ * The 4th page is shipping Cost and shipping related Dashboard . You can adjust the month year and shipping company filters to find insights. 
+ 
+
 
 # KPI DASHBOARD PREVIEW 
 The KPI dashboard present in the Project Folder.Maven Northwind Challenge.pbix is a Microsoft Power BI file . 
  Here I present some demo of my project which consist of Sales Dashboard , Product performence Dashboard , Employe performence Dashboard and Shippings Dashboard . 
  * Sales Dashboard 
  ![SalesDashboard!](sales_DB.png) 
+ * Product_performence_dashboard
  ![Product_performence_dashboard!](Product_Db.png) 
+ * Employe_performence_DAshboard
  ![Employe_performence_DAshboard](Employee_DB.png) 
- ![Employe_performence_DAshboard](Shipping_cost.png) 
+ * Shippings Dashboard
+ ![Shippings Dashboard](Shipping_cost.png) 
+
+
+
+ 
