@@ -33,3 +33,20 @@ KPI dashboard
 * Product performance
 * Key customers
 * Shipping costs 
+
+# Description 
+Data sourse : https://mavenanalytics.io/challenges/maven-northwind-challenge/24
+
+Data Provided on  May 04, 2023 , contains 2013,2014,2015 years data.
+
+
+ 
+* Orders.csv  8 columns and 500 rows ()
+* Order detail.csv  5 columns  and 500 rows 
+* Customers.csv  6 columns and 92 rows 
+* Products.csv 6 columns and 78 rows 
+* Product.csv categories.csv have 3 columns and 9 rows 
+* Employees.csv 6 columns and 10 rows 
+* Shippers 2 columns and 3 rows 
+
+![Order!](order table.png)
